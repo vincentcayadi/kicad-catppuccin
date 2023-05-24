@@ -7,3 +7,5 @@ Every theme directory contains the color definition parts of the eeschema and pc
 - Windows XP: “C:\Documents and Settings\username\Application Data” + kicad (= %APPDATA%\kicad)
 - Windows Vista & later: “C:\Users\username\AppData\Roaming” + kicad (= %APPDATA%\kicad)
 - OSX: The user’s home directory + /Library/Preferences/kicad
+
+![screenshot](https://raw.githubusercontent.com/vincentcayadi/kicad-catppuccin/main/picture.png)
